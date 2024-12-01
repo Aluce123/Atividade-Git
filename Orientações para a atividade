@@ -19,6 +19,22 @@ Passos:
 4. **Descrever as Branches**:
    - Branch GitHub: Esta branch pode ser utilizada para implementar melhorias relacionadas ao uso do GitHub, como a organização do repositório, criação de issues, ou pull requests.
    - Branch Git: Esta branch pode ser dedicada ao aprendizado e implementação de comandos Git, como commits, merges e reverts.
+Os comandos que eu mais esqueço:
+- cd nome-da-pasta
+- mkdir (criar pasta)
+- mdir (excluir pasta)
+
+ Os comandos que eu mais gosto:
+git status`: É bem coloridinho e me ajuda a ver o que está acontecendo no repositório.
+git log`: Acho muito legal porque mostra o histórico de alterações de forma colorida
+
+ Os comandos que eu mais uso:
+cd nome-da-pasta`
+git commit -m`
+git add`
+cd em geral.
+
+
 
 5. Realizar Alterações:
    - Em cada branch, faça alterações relevantes que demonstrem o que você aprendeu. Por exemplo, adicione um arquivo README que descreva o propósito de cada branch ou faça modificações no código existente.
