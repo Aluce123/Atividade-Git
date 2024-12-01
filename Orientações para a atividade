@@ -4,7 +4,6 @@ Objetivo:
 Aprender a utilizar as funcionalidades de fork, clone, branches e pull requests no Git e GitHub.
 
 Passos:
-
 1. **Fazer um Fork do Repositório**:
    - Acesse o repositório original no GitHub e clique no botão "Fork" para criar uma cópia do repositório em sua conta.
 
@@ -17,13 +16,16 @@ Passos:
     
 
 4. **Descrever as Branches**:
-   - Branch GitHub: Esta branch pode ser utilizada para implementar melhorias relacionadas ao uso do GitHub, como a organização do repositório, criação de issues, ou pull requests.
-   - Branch Git: Esta branch pode ser dedicada ao aprendizado e implementação de comandos Git, como commits, merges e reverts.
+   - Branch GitHub: Esta branch pode ser utilizada para implementar melhorias relacionadas ao do GitHub, como a organização do repositório, criação de issues, ou pull requests.
+poderia implementar um revisamento de código, tutoriais, feedbacks como comentários e de fácil acesso.
 
+   - Branch Git: Esta branch pode ser dedicada ao aprendizado e implementação de comandos Git, como commits, merges e reverts.
+   
+   
 5. Realizar Alterações:
    - Em cada branch, faça alterações relevantes que demonstrem o que você aprendeu. Por exemplo, adicione um arquivo README que descreva o propósito de cada branch ou faça modificações no código existente.
 
-6. Salvar as Alteraçõe*:
+6. Salvar as Alterações*:
      git add .
      git commit -m "Descreva suas alterações aqui"
      
