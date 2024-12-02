@@ -38,8 +38,16 @@ cd em geral.
 
 5. Realizar Alterações:
    - Em cada branch, faça alterações relevantes que demonstrem o que você aprendeu. Por exemplo, adicione um arquivo README que descreva o propósito de cada branch ou faça modificações no código existente.
+Comandos Praticados
+1. **git init**: Envia um repositório criado
+2. **git add**: Adiciona mudanças ao repositorio
+3. **git commit -m "mensagem"**: Salva mudanças no histórico com mensagens
+4. **git log**: Mostra o histórico de mudanças
+5. **git checkout**: Troca para outra branch 
+6. **git status**: mostra o arquivo modificado
+7. **git push**: Adiciona alterações no repositório
 
-6. Salvar as Alteraçõe*:
+6. Salvar as Alterações*:
      git add .
      git commit -m "Descreva suas alterações aqui"
      
